@@ -1,0 +1,4 @@
+Nombre: Emma
+Teléfono: 56898745
+Categoría: Cliente
+
